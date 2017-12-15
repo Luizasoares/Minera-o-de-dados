@@ -1,0 +1,16 @@
+1.Atividade Prática
+
+o Teste de memória da BBC consistia de três partes
+
+### 1. Na primeira parte 12 fotos era mostradas aos usuários 
+### 2. Na segunda parte outras 12 fotos eram mostradas 
+### 3. Na terceira parte, 48 fotos eram mostradas e perguntava-se aos usuários se aquela foto havia sido vista na primeira parte, na segunda ou em nenhuma.
+Após os testes, os usuários recebiam duas pontuações:
+
+   ### * Uma "pontuação de reconhecimento". Calculada como número de vezes em percentagem que o usuário acertou se viu ou não o rosto, não importando qual parte do teste.
+  ### * Uma "pontuação de memória temporal", calculada como número de rostos, em percentagem reconhecidos e identificados na parte correta ( parte 1 ou parte 2)
+Os usuários eram aconselhados a tirar cinco minutos de pausa entre cada parte do teste
+
+Analise o aquivo contendo todos os resultados de testes de memória da BBC. Para todas as varianças que fazem sentido, calcule o valor da média. Para as demais explique porque calcular a média não faz sentido.
+
+Ao analisar toda a lista da BBC antes de prosseguir e fazer toda as médias, pude observar que algumas dos dados não poderiam ser tirada as médias pois não eram números dos conjuntos dos reais, tal como caracteres especiais e porcentagens e valores NULL. Todos os dados que tivessem valores reais poderiam ser tirado a média, foi utilizado o Calc do LibreOffice.
